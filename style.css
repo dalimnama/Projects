@@ -1,0 +1,51 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner-container{
+    background-color: #CACACA;
+}
+
+.banner-column{
+    background-color: #8D8D8D;
+}
+
+.navbar-container{
+    background-color: #262B37;
+}
+
+.about-container{
+    background-color: #00BDBD;
+}
+
+.education-container{
+    background-color: #EEEEEE;
+}
+
+.redtype-color{
+    color: #FB857F;
+    font-weight: bold;
+}
+
+.bg-redtype-color{
+    background-color: #FB857F;
+}
+
+.circle{
+    background-color: #FB857F;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.project-container{
+    background-color: #2BB3DD;
+}
+
+.project-text{
+    font-weight: bold;
+}
+
+.text-gred{
+    text-decoration: none;
+}
